@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.main{
+    min-height:100vh;
+    background-color:indigo;
+    color:white;
+    display:flex;
+   
+    align-items:center;
+    font-size:2em;
+    flex-direction:column;
+    text-align:center;
+    width:100%;
+}
+pre{
+    color:red;
+    
+}
+#container{
+    border:1px solid white;
+    padding:2px;
+
+}

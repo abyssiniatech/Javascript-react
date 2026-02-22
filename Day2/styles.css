@@ -7,9 +7,9 @@
     min-height:100vh;
     background-color:indigo;
     color:white;
-    disply:flex;
+    display:flex;
     justify-content:center;
-    justify-items:center;
+    align-items:center;
     font-size:2em;
     text-align:center;
     width:100%;

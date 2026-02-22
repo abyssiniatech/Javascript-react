@@ -9,4 +9,5 @@ const AgaCal=()=>{
     else{
         console.log("you are old")
     }
+}
     AgaCal()

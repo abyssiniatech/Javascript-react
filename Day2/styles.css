@@ -8,13 +8,19 @@
     background-color:indigo;
     color:white;
     display:flex;
-    justify-content:center;
+   
     align-items:center;
     font-size:2em;
+    flex-direction:column;
     text-align:center;
     width:100%;
 }
 pre{
     color:red;
     
+}
+#container{
+    border:1px solid white;
+    padding:2px;
+
 }
